@@ -1,0 +1,6 @@
+docker-compose.yml
+
+# data & configuration folders
+/pgdata/
+/assets/
+
